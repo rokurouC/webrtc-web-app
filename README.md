@@ -7,7 +7,7 @@ It's just for fun, cooperation is welcomem :)
 
 ## Screenshots
 
-![image]()
+![image](https://github.com/rokurouC/webrtc-web-app/blob/master/src/screenshots/screenshot1.jpg)
 
 ## Prerequisites
 [Node.js](https://nodejs.org/en/)
